@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Punk_API/static/css/main.ea8c8ab3.css",
+    "main.js": "/Punk_API/static/js/main.5ea85d61.js",
+    "index.html": "/Punk_API/index.html",
+    "static/media/search.svg": "/Punk_API/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.ea8c8ab3.css.map": "/Punk_API/static/css/main.ea8c8ab3.css.map",
+    "main.5ea85d61.js.map": "/Punk_API/static/js/main.5ea85d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea8c8ab3.css",
+    "static/js/main.5ea85d61.js"
+  ]
+}
